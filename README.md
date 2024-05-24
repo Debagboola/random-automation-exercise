@@ -11,5 +11,5 @@ This is an automation exercise to showcase my knowledge of API automation
   | Update the booking (change checkout date and additional needs) |
 
 
-  ## API Test Suite
+## API Test Suite
   | 
