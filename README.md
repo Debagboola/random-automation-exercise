@@ -6,8 +6,8 @@ This is an automation exercise to showcase my knowledge of API automation
 * API Requests you are to focus on:
   | API Requests |
   |----------------|
-   | Create a booking" |
-  | "Get the booking created above |
+   | Create a booking |
+  | Get the booking created above |
   | Update the booking (change checkout date and additional needs) |
 
 
