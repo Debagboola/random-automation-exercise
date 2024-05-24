@@ -12,4 +12,9 @@ This is an automation exercise to showcase my knowledge of API automation
 
 
 ## API Test Suite
-  | 
+  | API	 | API	REQUEST TYPE |	TEST SCENARIOS |	EXPECTED RESULT AND STATUS CODE |	ACTUAL RESULT AND STATUS CODE	| OBSERVATION |
+  |------------------|------------------|-----------------|----------------------------------|	------------------------------|------------ |
+  | CreateBooking | POST | Confirm that user can successfully create a booking | Success 200 |	Okay | Pass |
+  | GetBooking | GET | Confirm that user can successfully Get the booking created above | Success 200 |	Okay | Pass |
+  | UpdateBooking | PUT | Confirm that user can successfully Update the created booking (change checkout date and additional needs) | Success 200 |	Okay | Pass |
+  
